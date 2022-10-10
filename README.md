@@ -27,7 +27,7 @@ ImbLearn
 
 Data
 
-The data I used for this project was obtained from Kaggle and can be found here. 
+The data I used for this project was obtained from Kaggle.
 
 Algorithms
 
